@@ -8,6 +8,7 @@ def win(x,y,z):
         print("Cat B")
     else:
         print("Mouse C")
+        
 def main():
 	q = int(input().strip())
 
