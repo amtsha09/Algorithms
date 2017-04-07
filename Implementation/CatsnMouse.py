@@ -13,9 +13,9 @@ def main():
 	q = int(input().strip())
 
 	for a0 in range(q):
-	    x,y,z = input().strip().split(' ')
-	    x,y,z = [int(x),int(y),int(z)]
-	    win(x,y,z)
+		x,y,z = input().strip().split(' ')
+		x,y,z = [int(x),int(y),int(z)]
+		win(x,y,z)
 
 if __name__ == '__main__':
 	main()
