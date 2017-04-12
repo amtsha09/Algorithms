@@ -25,7 +25,8 @@ def pick_number(a):
 def main():
 	n = int(input().strip())
 	a = [int(a_temp) for a_temp in input().strip().split(' ')]
-
+	pick_number(a)
+	
 if __name__ == '__main__':
 	main()
 
