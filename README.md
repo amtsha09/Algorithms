@@ -1,4 +1,4 @@
-# Algorithms
+# HackerRank-Algorithms
 HackerRank's core CS Algorithms Track where all the programs are written in Python.
 
 For performing all these tasks you will need to have certain packages and certain versions of those,
